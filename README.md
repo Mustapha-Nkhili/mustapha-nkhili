@@ -1,6 +1,3 @@
-![Hey there, I'm Cyris. I'm a Front End developer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-
-# 👋 &nbsp;Hi there
 <h1 align="center">Hi 👋, I'm mustapha</h1>
 <h3 align="center">A passionate Front End developer from Morocco</h3>
 
