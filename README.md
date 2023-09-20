@@ -14,7 +14,8 @@
 - 📫 How to reach me **mustaphankhili22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/software_flow) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/software_flow)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Mustapha_nkhili)
 
