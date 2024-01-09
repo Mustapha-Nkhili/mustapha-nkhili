@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **some projects to practice my knowledge**
 
-- 💬 Ask me about **Front end development**
+- 💬 Ask me about **Front end web development**
 
 - 📫 How to reach me **mustaphankhili22@gmail.com**
 
