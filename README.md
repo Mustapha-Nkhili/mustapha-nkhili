@@ -3,13 +3,13 @@
 
 
 <br><br>
-- 🔭 I’m currently working on **dashboard**
+- 🔭 I’m currently working on **NkhiliVan** a web app for van renting
 
-- 🌱 I’m currently learning **javascript and react**
+- 🌱 I’m currently learning **react.js and Next.js**
 
 - 👯 I’m looking to collaborate on **some projects to practice my knowledge**
 
-- 💬 Ask me about **css and html**
+- 💬 Ask me about **Front end development**
 
 - 📫 How to reach me **mustaphankhili22@gmail.com**
 
