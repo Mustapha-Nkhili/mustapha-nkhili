@@ -3,9 +3,9 @@
 
 
 <br><br>
-- 🔭 I’m currently working on **[NkhiliVan](https://nkhilivan.web.app/)** a web app for van renting
+- 🔭 I’m currently working on **[NkhiliCSS](https://github.com/Mustapha-Nkhili/nkhilicss)** A lightweight CSS framework for efficient styling
 
-- 🌱 I’m currently learning **react.js and Next.js**
+- 🌱 I’m currently learning **React.js and Next.js**
 
 - 👯 I’m looking to collaborate on **some projects to practice my knowledge**
 
