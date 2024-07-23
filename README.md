@@ -3,7 +3,7 @@
 
 
 <br><br>
-- 🔭 I’m currently working on **[NkhiliCSS](https://github.com/Mustapha-Nkhili/nkhilicss)** A lightweight CSS framework for efficient styling
+- 🔭 I’m currently working on **[NkhiliCSS](https://nkhilicss.web.app)** A lightweight CSS framework for efficient styling
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
